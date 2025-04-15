@@ -1,5 +1,8 @@
 # Solution - Adir Bruchim
 
+Final solution can be seen under sprompt/client/solution_client.py
+when running main. You can choose to run with optimize_cpu=False for best time performance.
+
 ## Looking at the code and identifying hotspots
 I ran cProfile to identify the most time-consuming functions in the client run
 ```
