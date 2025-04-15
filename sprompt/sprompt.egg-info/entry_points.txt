@@ -1,0 +1,2 @@
+[console_scripts]
+prompt_security_client = client.main:main
